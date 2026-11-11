@@ -1,0 +1,9 @@
+data/
+output/
+runs/
+logs/
+*.pt
+*.mp4
+*.zip
+kaggle.json
+.DS_Store
